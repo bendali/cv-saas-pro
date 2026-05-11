@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd cv-online && npm run build",
+  "outputDirectory": "cv-online/dist",
+  "installCommand": "cd cv-online && npm install",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ],
+  "framework": "vite"
+}
