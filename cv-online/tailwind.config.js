@@ -9,7 +9,6 @@ export default {
       colors: {
         vide: '#0A0A14',
         violet: '#7B61FF',
-        golden: '#D4AF37',
         fantome: '#F0EFF4',
         graphite: '#18181B',
       },
