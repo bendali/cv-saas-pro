@@ -509,10 +509,10 @@ function App() {
           {/* Photo placeholder */}
           <div
             ref={heroPhotoRef}
-            className="w-[140px] h-[140px] rounded-full border-2 border-golden/50 flex items-center justify-center mb-8 bg-graphite/80 backdrop-blur-sm"
-            style={{ boxShadow: '0 0 40px rgba(212,175,55,0.2)' }}
+            className="w-[140px] h-[140px] rounded-full border-2 border-violet/50 flex items-center justify-center mb-8 bg-graphite/80 backdrop-blur-sm"
+            style={{ boxShadow: '0 0 40px rgba(123,97,255,0.2)' }}
           >
-            <span className="font-sora text-sm font-semibold text-golden text-center leading-tight px-2">
+            <span className="font-sora text-sm font-semibold text-violet text-center leading-tight px-2">
               Disponible<br />pour des<br />nouvelles<br />opportunités
             </span>
           </div>
