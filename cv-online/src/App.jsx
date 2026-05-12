@@ -512,7 +512,7 @@ function App() {
             className="w-[140px] h-[140px] rounded-full border-2 border-violet/50 flex items-center justify-center mb-8 bg-graphite/80 backdrop-blur-sm"
             style={{ boxShadow: '0 0 40px rgba(123,97,255,0.2)' }}
           >
-            <span className="font-sora text-4xl font-bold text-violet">
+            <span className="font-sora text-4xl font-bold text-golden">
               {profile.initials}
             </span>
           </div>
